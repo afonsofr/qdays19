@@ -1,4 +1,7 @@
 # Qiskit_hands_on
+
+## Available in: https://github.com/afonsofr/qdays19
+
 Jupyter Notebook script for an introductory QISKit hands-on presentation.
 
 1.  To run offline, download this project as a zip, unzip the folder, and open `basics.ipynb` with Jupyter Notebook
