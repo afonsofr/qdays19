@@ -5,7 +5,7 @@ Jupyter Notebook script for an introductory QISKit hands-on presentation.
 
 2. For the online binder image, [click here](https://mybinder.org/v2/gh/afonsofr/qdays19/master?filepath=basics.ipynb) or copy and paste the link below:
 
-https://mybinder.org/v2/gh/afonsofr/qdays19/master?filepath=basics.ipynb
+- https://mybinder.org/v2/gh/afonsofr/qdays19/master?filepath=basics.ipynb
 
 <p>
 By: [Afonso Rodrigues](https://afonsofr.github.io) and [Ana Neri](https://ana.nery.name/wp/)
